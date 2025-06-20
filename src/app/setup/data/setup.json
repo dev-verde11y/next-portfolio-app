@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Monitor LG UltraWide 34''",
+      "category": "equipamentos",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Monitor 34'' UltraWide 144Hz com HDR10 e painel IPS.",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "title": "Teclado Keychron K8 Pro",
+      "category": "perifericos",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Teclado mecânico 75% wireless com switches Gateron Brown.",
+      "link": "/"
+    },
+    {
+      "id": 3,
+      "title": "Cadeira Herman Miller Aeron",
+      "category": "mobilia",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Cadeira ergonômica premiada com ajustes posturais.",
+      "link": "/"
+    },
+    {
+      "id": 4,
+      "title": "MacBook Pro M2 16''",
+      "category": "eletronico",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Notebook com chip M2 Pro, 32GB RAM e 1TB SSD.",
+      "link": "/"
+    },
+    {
+      "id": 5,
+      "title": "Organizador de Mesa Grovemade",
+      "category": "escritorio",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Organizador de madeira maciça para canetas e acessórios.",
+      "link": "/"
+    },
+    {
+      "id": 6,
+      "title": "Furadeira Sem Fio DeWalt",
+      "category": "ferramentas",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Furadeira de impacto 20V com 2 baterias e case.",
+      "link": "/"
+    },
+    {
+      "id": 7,
+      "title": "iPad Pro 12.9''",
+      "category": "aparelho portatil",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Tablet com chip M2 e tela Mini-LED de 120Hz.",
+      "link": "/"
+    },
+    {
+      "id": 8,
+      "title": "PC Gamer RTX 4080",
+      "category": "pc",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Ryzen 9 7950X, 64GB DDR5, SSD 2TB NVMe.",
+      "link": "/"
+    },
+    {
+      "id": 9,
+      "title": "Mouse Logitech MX Master 3S",
+      "category": "perifericos",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Mouse ergonômico com scroll eletromagnético.",
+      "link": "/"
+    },
+    {
+      "id": 10,
+      "title": "Mesa Ajustável FlexiSpot",
+      "category": "mobilia",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Mesa de altura ajustável elétrica 140x80cm.",
+      "link": "/"
+    },
+    {
+      "id": 11,
+      "title": "Headset Sony WH-1000XM5",
+      "category": "eletronico",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Fones over-ear com cancelamento de ruído líder.",
+      "link": "/"
+    },
+    {
+      "id": 12,
+      "title": "Suporte Monitor Ergonômico",
+      "category": "escritorio",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Suporte articulado para até 2 monitores 32''.",
+      "link": "/"
+    },
+    {
+      "id": 13,
+      "title": "Kit Chaves de Fenda iFixit",
+      "category": "ferramentas",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Kit premium com 64 peças para eletrônicos.",
+      "link": "/"
+    },
+    {
+      "id": 14,
+      "title": "Smartphone Samsung S23 Ultra",
+      "category": "aparelho portatil",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Celular com S Pen integrada e câmera de 200MP.",
+      "link": "/"
+    },
+    {
+      "id": 15,
+      "title": "NUC Intel Extreme 12",
+      "category": "pc",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Mini-PC com Core i9 e RTX 4070 para criadores.",
+      "link": "/"
+    },
+    {
+      "id": 16,
+      "title": "Webcam Logitech Brio 4K",
+      "category": "perifericos",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Webcam com HDR e correção de luz automática.",
+      "link": "/"
+    },
+    {
+      "id": 17,
+      "title": "Iluminação Nanoleaf Hexagon",
+      "category": "estilo de vida",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Painéis LED inteligentes com 16 milhões de cores.",
+      "link": "/"
+    },
+    {
+      "id": 18,
+      "title": "Hub USB-C HyperDrive 8-em-1",
+      "category": "equipamentos",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Hub com HDMI 4K, SD card reader e PD 100W.",
+      "link": "/"
+    },
+    {
+      "id": 19,
+      "title": "Notebook Dell XPS 15 2023",
+      "category": "eletronico",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Tela 4K OLED, i9-13900H e RTX 4050.",
+      "link": "/"
+    },
+    {
+      "id": 20,
+      "title": "Mini Geladeira USB para Latas",
+      "category": "estilo de vida",
+      "image": "/images/setup/msi-project0.png",
+      "description": "Geladeira portátil para 6 latas com LED RGB.",
+      "link": "/"
+    }
+  ]
+}
